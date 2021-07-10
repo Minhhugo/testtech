@@ -1,2 +1,2 @@
 test ok
-nvminh
+nvminh 1
